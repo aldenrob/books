@@ -1,0 +1,103 @@
+BODY {
+	background: white;
+	color : black;
+	font-family :  verdana;
+	font-size: 10	px;
+	text-align: justify;
+}
+.big {
+        background: #C2D7EB;
+        color: #336699;
+        font-size: 12pt;
+        text-align: center;
+        font-family: Arial;
+}
+H2 {
+	font-size: 14pt;
+	color: #87CEFA;
+}
+
+H3 {
+	font-size: 13pt;
+	color: #7FFFD4;
+}
+
+H4 {
+    font-size: small;
+	font-variant: small-caps;
+	font-weight: bold;
+	color : white;
+	}
+
+A {
+	color: #336699;
+}
+
+A:Hover {
+	text-decoration: underline;
+	color: red;
+	text-decoration:none;
+}
+
+HR {
+	color: blue;
+	height: 1pt;
+}
+
+.paul{
+	background : Yellow;
+	font-size: 12px;
+	background-color : #C2D7EB;
+	border : medium double Fuchsia;
+	font-family: verdana;
+}
+TH {
+	font-family : Verdana;
+	font-size: 12px;
+}
+TD {
+	font-family:Verdana;
+	font-size: 10px;
+	vertical-align : top;
+}
+TD.list {
+	text-align: justify;
+	vertical-align : middle;
+	border-bottom: 1px solid #336699;
+}
+INPUT.button {
+	background : #C2D7EB;
+	/* NS4 can't see these borders */
+	border-bottom : 1px solid #336699;
+	border-left : 1px solid #336699;
+	border-right : 1px solid #336699;
+	border-top : 1px solid #336699;
+	color : #000000;
+	cursor : hand;
+	font : 11px Verdana;
+	padding : 1px 0;
+	height:19px;
+}
+INPUT {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	background-color : #C2D7EB;
+}
+TR.color {
+	background : #FDF4DA;
+}
+TD.statustable {
+	text-align:center;
+	background : #FDF4DA;
+
+}
+TD.texthead {
+	text-align: center;
+	color: #000000;
+	vertical-align : middle;
+	background : #ffffff
+}
+TD.sort {
+	text-align : center;
+	font-size : 9px;
+}
